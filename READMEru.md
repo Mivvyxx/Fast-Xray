@@ -1,4 +1,4 @@
-# Xray-fast-install
+# Fast-Xray
 
 Языки   
 [Русский](READMEru.md)  
@@ -10,11 +10,11 @@ Bash скрипт, который автоматически обновляет 
 
 In 1 command
 ```bash
-curl -s https://github.com/Mivvyxx/Xray-fast-install/releases/latest/download/update.sh | sudo sh
+curl -s https://github.com/Mivvyxx/Fast-Xray/releases/latest/download/update.sh | sudo sh
 ```
 or
 ```bash
-curl -O https://github.com/Mivvyxx/Xray-fast-install/releases/latest/download/update.sh
+curl -O https://github.com/Mivvyxx/Fast-Xray/releases/latest/download/update.sh
 chmod +x update.sh
 sudo sh update.sh
 ```
